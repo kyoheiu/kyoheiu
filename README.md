@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Currently learning: Rust, Zig, Haskell
-- 📫 How to reach me: kyoheiu@outlook.com
+- 📫 How to reach me:
+  - kyoheiu@outlook.com
+  - Twitter@kyoheiu_tw
+  - Discord@kyoheiu#5725
