@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Currently learning ... Rust, Haskell
-- 📫 How to reach me: ... kyoheiu@outlook.com
+- 🌱 Currently learning: Rust, Zig, Haskell
+- 📫 How to reach me: kyoheiu@outlook.com
