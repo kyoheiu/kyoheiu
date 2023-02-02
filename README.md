@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❤ Rust🦀
+- ❤ Rust
 - 📫 How to reach me:
   - im@kyoheiu.dev
   - Discord@kyoheiu#5725
