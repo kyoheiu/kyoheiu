@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ❤ Rust
 - 📫 How to reach me:
   - im@kyoheiu.dev
-  - Discord@kyoheiu#5725
+- 🏠 https://kyoheiu.dev/
