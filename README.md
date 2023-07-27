@@ -12,6 +12,4 @@ Here are some ideas to get you started:
 -->
 
 - ❤ Rust
-- 📫 How to reach me:
-  - im@kyoheiu.dev
 - 🏠 https://kyoheiu.dev/
