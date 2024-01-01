@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❤ Rust, Svelte
+- ❤ Rust, React
 - 🏠 https://kyoheiu.dev/
